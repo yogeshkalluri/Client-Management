@@ -93,15 +93,15 @@ const Sidebar = () => {
                                 alt="profile-user"
                                 width="100px"
                                 height ="100px"
-                                src={`../../assets/hem.jpeg`}
+                                src={`../../assets/yogesh.png`}
                                 style={{cursor:"pointer", borderRadius:"50%"}}
                             />
                         </Box>
 
                         <Box textAlign="center">
                             <Typography variant="h2" color={colors.grey[100]} fontWeight="bold" sx={{ m :"10px 0 0 0"}}
-                            > Hemanth Akula </Typography>
-                            <Typography variant="h5" color={colors.greenAccent[500]}> 14-06 </Typography>
+                            > Yogesh Kalluri </Typography>
+                            <Typography variant="h5" color={colors.greenAccent[500]}> 18-08 </Typography>
                         </Box>
                     </Box>)}
 

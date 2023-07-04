@@ -64,7 +64,7 @@ const FAQ = () => {
                 </AccordionSummary>
                 <AccordionDetails>
                     <Typography>
-                        HEMANTH AKULA
+                        Yogesh Kalluri
                     </Typography>
                 </AccordionDetails>
             </Accordion>
