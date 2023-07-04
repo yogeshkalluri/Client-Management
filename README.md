@@ -1,5 +1,4 @@
-# ADMIN DASHBOARD
-
+## Client-Management
 => Implemented a customizable dark mode and light mode option.
 
 => Designed and Developed a dashboard with dynamic charts, including pie, line bar charts and a Geographic map.
